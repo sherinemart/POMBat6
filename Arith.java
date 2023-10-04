@@ -15,7 +15,7 @@ class Arith
  System.out.println("Int to float: "+y);
  System.out.println(a+b);
  System.out.println(a-b);
- System.out.println(a*b);
+ System.out.println(b*b);
  System.out.println(a/b);
  System.out.println(a%b);
  
